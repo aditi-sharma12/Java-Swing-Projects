@@ -24,7 +24,7 @@ This is a collection of desktop GUI applications built using **Java Swing**, aim
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/aditi-sharma12/java-swing-projects.git
 cd java-swing-projects
