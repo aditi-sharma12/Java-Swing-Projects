@@ -7,10 +7,11 @@ This is a collection of desktop GUI applications built using **Java Swing**, aim
 
 ## 📁 Projects Included
 
-| Project Name            | Description                                                  |
-|-------------------------|--------------------------------------------------------------|
-| Calculator App          | A basic calculator with standard arithmetic operations.      |
-| Rock-Paper-Scissors Game| A simple interactive game to play Rock-Paper-Scissors vs CPU.|
+| Project Name             | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| Calculator App           | A basic calculator with standard arithmetic operations.                     |
+| Rock-Paper-Scissors Game | A simple interactive game to play Rock-Paper-Scissors against the computer. |
+| Password Generator       | A secure password generator with options to include uppercase, lowercase, numbers, and symbols. |
 
 ---
 
