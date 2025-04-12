@@ -101,7 +101,7 @@ class passwordGenerator extends JFrame
 			{
                 		case "Uppercase":
                     		useUppercase = true;
-                    		/*B1.setBackground(useUppercase ? Color.WHITE : null);*/
+                    		B1.setBackground(useUppercase ? Color.WHITE : null);
                     		break;
 
                 		case "Lowercase":
